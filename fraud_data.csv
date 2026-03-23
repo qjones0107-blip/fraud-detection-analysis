@@ -1,0 +1,151 @@
+transaction_id,amount,location,device,time_of_day,is_fraud
+1,755.33,New York,Mobile,Morning,1
+2,1901.92,New York,Mobile,Evening,1
+3,1466.67,Texas,Desktop,Night,1
+4,1201.33,California,Desktop,Afternoon,0
+5,320.48,Illinois,Tablet,Morning,0
+6,320.43,Florida,Tablet,Afternoon,0
+7,125.59,California,Tablet,Morning,0
+8,1733.69,Florida,Desktop,Evening,0
+9,1206.22,Texas,Desktop,Morning,0
+10,1419.06,Texas,Tablet,Night,1
+11,50.96,New York,Tablet,Night,0
+12,1940.12,Illinois,Desktop,Morning,1
+13,1666.56,Florida,Tablet,Morning,1
+14,432.55,California,Mobile,Morning,0
+15,371.83,Texas,Desktop,Morning,0
+16,374.97,New York,Tablet,Night,0
+17,615.44,New York,Desktop,Afternoon,0
+18,1054.27,Florida,Mobile,Morning,0
+19,869.57,Texas,Desktop,Morning,0
+20,589.55,Illinois,Desktop,Night,0
+21,1227.59,Texas,Desktop,Night,1
+22,287.59,Florida,Desktop,Evening,0
+23,591.37,Florida,Mobile,Morning,1
+24,739.06,Texas,Desktop,Evening,0
+25,917.58,Florida,Desktop,Night,0
+26,1572.5,Texas,Tablet,Night,1
+27,407.35,California,Desktop,Afternoon,0
+28,1033.33,Texas,Tablet,Morning,0
+29,1188.9,Texas,Mobile,Evening,0
+30,102.44,Florida,Mobile,Night,0
+31,1219.01,Florida,Mobile,Night,1
+32,349.34,New York,Mobile,Evening,0
+33,139.45,New York,Tablet,Afternoon,0
+34,1898.28,California,Desktop,Night,1
+35,1931.61,New York,Mobile,Morning,0
+36,1618.71,Texas,Desktop,Night,0
+37,616.18,Florida,Tablet,Morning,0
+38,204.37,New York,Tablet,Evening,0
+39,1371.62,New York,Tablet,Morning,1
+40,885.9,California,Mobile,Evening,1
+41,252.86,California,Desktop,Morning,0
+42,995.4,Texas,Desktop,Evening,0
+43,78.43,Florida,Desktop,Morning,0
+44,1819.55,California,Tablet,Afternoon,1
+45,524.97,New York,Mobile,Morning,0
+46,1328.42,Florida,Tablet,Morning,0
+47,630.31,Florida,Tablet,Afternoon,0
+48,1044.94,New York,Desktop,Night,0
+49,1097.95,California,Tablet,Night,0
+50,377.86,New York,Desktop,Morning,0
+51,1939.47,Florida,Mobile,Afternoon,0
+52,1552.51,Illinois,Desktop,Morning,1
+53,1879.6,Illinois,Mobile,Evening,0
+54,1790.71,Texas,Desktop,Evening,0
+55,1199.82,New York,Tablet,Morning,0
+56,1844.53,New York,Tablet,Night,0
+57,186.1,Texas,Mobile,Night,0
+58,400.01,Texas,Mobile,Morning,0
+59,100.0,Texas,Mobile,Morning,0
+60,657.41,Florida,Desktop,Evening,0
+61,783.47,New York,Desktop,Night,1
+62,549.98,Florida,Mobile,Morning,1
+63,1659.19,Texas,Tablet,Evening,1
+64,719.94,New York,Desktop,Night,0
+65,569.06,Florida,Desktop,Afternoon,0
+66,1089.97,Florida,Desktop,Evening,0
+67,290.44,Texas,Mobile,Night,0
+68,1606.37,New York,Mobile,Night,1
+69,158.36,Texas,Mobile,Evening,0
+70,1973.91,New York,Mobile,Afternoon,0
+71,1546.77,Illinois,Mobile,Evening,0
+72,405.44,California,Tablet,Night,0
+73,20.99,California,Tablet,Morning,0
+74,1632.77,California,Mobile,Morning,1
+75,1416.65,Texas,Desktop,Evening,1
+76,1460.72,Illinois,Mobile,Night,1
+77,1544.83,New York,Tablet,Morning,0
+78,157.35,Florida,Tablet,Night,0
+79,723.35,New York,Desktop,Evening,0
+80,240.58,Florida,Tablet,Morning,0
+81,1727.58,New York,Mobile,Night,1
+82,1250.36,Illinois,Desktop,Morning,0
+83,668.49,Florida,Mobile,Evening,0
+84,136.48,Texas,Mobile,Night,1
+85,628.85,New York,Desktop,Morning,0
+86,657.11,New York,Mobile,Evening,1
+87,1461.92,Florida,Tablet,Morning,0
+88,1278.74,Texas,Mobile,Morning,0
+89,1775.55,Texas,Desktop,Afternoon,1
+90,949.71,Illinois,Desktop,Afternoon,0
+91,247.99,Texas,Desktop,Evening,0
+92,1429.36,Texas,Mobile,Afternoon,1
+93,1523.96,Texas,Desktop,Evening,1
+94,1126.94,California,Desktop,Afternoon,0
+95,1544.22,Illinois,Mobile,Morning,1
+96,992.65,New York,Tablet,Evening,0
+97,1050.24,Florida,Mobile,Evening,0
+98,860.81,New York,Desktop,Morning,0
+99,60.58,Illinois,Desktop,Evening,0
+100,224.7,Florida,Mobile,Evening,0
+101,72.54,Illinois,Tablet,Afternoon,0
+102,1276.46,Texas,Desktop,Evening,0
+103,635.57,Florida,Desktop,Night,1
+104,1022.06,Texas,Desktop,Morning,0
+105,1816.06,New York,Mobile,Afternoon,0
+106,506.09,New York,Desktop,Afternoon,0
+107,826.66,Florida,Tablet,Night,0
+108,1513.55,Florida,Desktop,Morning,1
+109,465.31,Illinois,Desktop,Morning,0
+110,163.19,Illinois,Tablet,Afternoon,0
+111,586.61,Texas,Desktop,Evening,0
+112,330.83,Florida,Mobile,Afternoon,0
+113,1860.1,New York,Mobile,Morning,1
+114,1618.16,Illinois,Mobile,Night,1
+115,1270.47,Illinois,Tablet,Afternoon,0
+116,1744.21,New York,Desktop,Morning,1
+117,1609.31,Illinois,Mobile,Afternoon,1
+118,381.27,Texas,Tablet,Evening,0
+119,1786.19,Florida,Desktop,Afternoon,1
+120,1083.29,New York,Tablet,Afternoon,0
+121,1616.81,Florida,Mobile,Morning,0
+122,1793.22,Illinois,Mobile,Morning,0
+123,642.83,Illinois,Mobile,Morning,1
+124,229.0,New York,Tablet,Afternoon,0
+125,463.59,Texas,Tablet,Evening,0
+126,859.94,California,Mobile,Night,1
+127,1637.85,New York,Tablet,Night,1
+128,1722.85,California,Mobile,Morning,0
+129,23.83,California,Mobile,Morning,0
+130,1026.39,Texas,Desktop,Afternoon,0
+131,840.65,California,Tablet,Night,0
+132,451.99,California,Mobile,Morning,0
+133,248.53,Texas,Mobile,Evening,1
+134,681.85,California,Tablet,Evening,0
+135,1886.39,California,Desktop,Morning,1
+136,653.17,California,Desktop,Morning,0
+137,1042.39,New York,Mobile,Night,1
+138,1409.01,New York,Tablet,Night,1
+139,733.62,New York,Desktop,Afternoon,0
+140,1943.85,Texas,Tablet,Night,1
+141,1925.27,Illinois,Tablet,Evening,0
+142,511.05,California,Mobile,Evening,0
+143,999.52,California,Desktop,Morning,0
+144,608.75,Texas,Mobile,Night,1
+145,576.83,California,Desktop,Afternoon,0
+146,83.41,New York,Desktop,Evening,0
+147,1223.03,Illinois,Desktop,Evening,1
+148,1010.33,Florida,Desktop,Afternoon,0
+149,112.44,California,Desktop,Afternoon,0
+150,564.51,New York,Tablet,Evening,0
