@@ -69,6 +69,5 @@ This project demonstrates how data analysis can be used to detect fraud patterns
 
 ---
 
-## 👤 Author
-Quincy Jones  
- Data Analyst | Python | Data Visualization
+## 👤 Quincy Jones — Data Analyst | Power BI | Business Intelligence | Operations
+🔗 LinkedIn | GitHub
